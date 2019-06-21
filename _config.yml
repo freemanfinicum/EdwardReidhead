@@ -4,7 +4,7 @@ gems:
 
 # Exclude these files from your production _site
 permalink: /:title/
-name: Title of your website
+name: My Personal Blog...
 sass:
   style: :expanded # You might prefer to minify using :compressed
 
@@ -44,4 +44,4 @@ footer-links:
   googleplus: # anything in your profile username that comes after plus.google.com/
 
 
-description: Your site description
+description: Edward Reidhead aka the Risk Taker aka WhoRU aka Eddie J
